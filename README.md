@@ -8,6 +8,7 @@
 - [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/#/)
 - [Introduction to GitHub Flow](https://guides.github.com/introduction/flow/)
 
+you can play this at: https://github.com/GH-DEV-WS-1202/github-games-jzantony
 ### 👇🔗 Click the dropdown menu below for the class URLs 🔗 👇
 
 <details>
